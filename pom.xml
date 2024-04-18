@@ -51,7 +51,7 @@
 
         <hbase.version>1.3.0</hbase.version>
         <mongo-java-driver.version>3.4.2</mongo-java-driver.version>
-        <oshi.core.version>3.5.0</oshi.core.version>
+        <oshi.core.version>3.14.0</oshi.core.version>
 
         <phoenix.version>5.0.0-HBase-2.0</phoenix.version>
     </properties>
