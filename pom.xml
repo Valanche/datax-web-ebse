@@ -28,7 +28,7 @@
         <commons-lang3.version>3.3.2</commons-lang3.version>
         <fastjson.version>1.2.70</fastjson.version>
         <slf4j-api.version>1.7.28</slf4j-api.version>
-        <logback-classic.version>1.2.2</logback-classic.version>
+        <logback-classic.version>1.5.13</logback-classic.version>
         <commons-io.version>2.4</commons-io.version>
         <junit.version>4.12</junit.version>
         <hutool.version>4.5.1</hutool.version>
